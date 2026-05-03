@@ -53,9 +53,15 @@ Arch Linux installation with Hyprland as window manager, JaKooLit dotfiles and d
 - Brave Browser
 - Spotify
 - Discord
+- Obsidian
 - Steam
 - Mullvad VPN
 - Fastfetch
+- Cava
+- Cmatrix
+- Cbonsai
+- Tty-clock
+- Btop
 
 ---
 
